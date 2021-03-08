@@ -1,0 +1,16 @@
+[
+  {
+    "OrderId": "06728ce8-0fd2-492c-b99a-64ef5c688a73",
+    "CustomerId": "06ddad76-62ae-405b-950e-d6c415123fac",
+    "CustomerName": "rac",
+    "Details": "ttt",
+    "TotalSum": 111111.0
+  },
+  {
+    "OrderId": "64b36266-b4a4-49a4-af55-42ad33b4b64d",
+    "CustomerId": "f2c57f4b-d181-430d-bf06-987c1bb55cf8",
+    "CustomerName": "qqq",
+    "Details": "www",
+    "TotalSum": 222222222.0
+  }
+]

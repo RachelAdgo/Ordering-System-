@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5QjFWBeLzY0PF0naR1AQziGTSLmlpkqTuA5eWjd1r0GUMBMPJTPjZV+/7sWs8obycvB/UC4SmhRI9aHTfcnk9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rachela\\OneDrive - Landa Group\\מסמכים\\Visual Studio 2019\\LandaOrderingSystemLogic\\LandaOrderingSystemLogic\\LandaOrderingSystemLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rachela\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

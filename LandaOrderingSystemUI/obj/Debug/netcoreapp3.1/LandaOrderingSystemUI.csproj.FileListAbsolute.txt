@@ -1,0 +1,34 @@
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.exe
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.deps.json
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.runtimeconfig.json
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.runtimeconfig.dev.json
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.dll
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.pdb
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.AssemblyInfoInputs.cache
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.AssemblyInfo.cs
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.dll
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.pdb
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.genruntimeconfig.cache
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemLogic.dll
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemLogic.pdb
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.csprojAssemblyReference.cache
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.csproj.CopyComplete
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RachelGebyanesh Adgo\source\repos\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.exe
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.deps.json
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.runtimeconfig.json
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.runtimeconfig.dev.json
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.dll
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemUI.pdb
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemLogic.dll
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\bin\Debug\netcoreapp3.1\LandaOrderingSystemLogic.pdb
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.csprojAssemblyReference.cache
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.AssemblyInfoInputs.cache
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.AssemblyInfo.cs
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.csproj.CopyComplete
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.dll
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.pdb
+C:\Users\rachela\OneDrive - Landa Group\מסמכים\Visual Studio 2019\LandaOrderingSystemLogic\LandaOrderingSystemUI\obj\Debug\netcoreapp3.1\LandaOrderingSystemUI.genruntimeconfig.cache
